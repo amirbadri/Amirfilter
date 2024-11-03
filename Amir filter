@@ -1,0 +1,2 @@
+warp://162.159.195.42:987?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#irancell6
+warp://188.114.99.41:2371?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#irancell&&detour=warp://162.159.192.97:8742?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#m3
