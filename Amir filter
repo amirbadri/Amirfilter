@@ -3,7 +3,9 @@
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //support-url: https://t.me/hiddify
 //profile-web-page-url: https://hiddify.com
-warp://162.159.195.42:987?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#irancell6
-warp://188.114.99.41:2371?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#irancell&&detour=warp://162.159.192.97:8742?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#m3
-warp://162.159.195.215:987?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#irancel13&&detour=warp://162.159.192.165:1014?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#inter
-warp://162.159.192.194:987?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#netawli&&detour=warp://162.159.192.200:987:1014?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#net6
+warp://162.159.195.42:987?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#irancell1
+warp://188.114.99.41:2371?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#irancell2
+warp://162.159.192.97:8742?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#irancell3
+warp://162.159.192.200:987?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#irancell4
+warp://162.159.192.165:1014?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#irancell5
+
