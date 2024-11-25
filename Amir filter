@@ -1,8 +1,5 @@
 //profile-title: Amir
 //profile-update-interval: 6
-//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-//support-url: https://t.me/hiddify
-//profile-web-page-url: https://hiddify.com
 warp://188.114.98.80:4198?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#netawli&&detour=warp://162.159.192.114:4198?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#irancell1
 warp://162.159.195.18:7559?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#dubi&&detour=warp://188.114.98.97:7559?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#frankfurt
 warp://188.114.98.239:891?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#eshghe&&detour=warp://188.114.98.202:7559?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#khobe
