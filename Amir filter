@@ -8,5 +8,3 @@ warp://162.159.195.18:7559?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#iran1&&detour=war
 warp://188.114.98.239:891?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#iran3&&detour=warp://188.114.98.202:7559?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#iran4
 warp://188.114.97.43:891?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#iran5&&detour=warp://162.159.192.153:7559?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#iran6
 warp://162.159.192.5:891?ifp=40-80&ifps=1-5&ifpd=4-8&ifpm=m4#iran7&&detour=warp://188.114.97.251:7559?ifp=1-5&ifps=40-100&ifpd=4-8&ifpm=m3#iran8
-warp://162.159.192.52:908?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mci1
-warp://162.159.195.104:908?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mci2
