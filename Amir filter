@@ -1,8 +1,8 @@
 //profile-title: AmiR_MCI
 //profile-update-interval: 24
-warp://162.159.192.165:903?ifp=6-10&ifps=40-100&ifpd=6-6&ifpm=m4#mci1
-warp://162.159.192.97:903?ifp=7-10&ifps=40-100&ifpd=4-6&ifpm=m4#mci2
-warp://162.159.195.102:864?ifp=5-10&ifps=40-100&ifpd=5-6&ifpm=m4#mci3
-warp://162.159.195.107:903?ifp=5-10&ifps=40-100&ifpd=6-6&ifpm=m4#mci4
-warp://162.159.195.35:864?ifp=5-10&ifps=40-100&ifpd=4-6&ifpm=m4#mci5
-warp://188.114.97.87:903?ifp=5-10&ifps=40-100&ifpd=6-9&ifpm=m4#mci6
+warp://162.159.192.165:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mci1
+warp://162.159.192.97:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mci2
+warp://162.159.195.102:864?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mci3
+warp://162.159.195.107:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mci4
+warp://162.159.195.35:864?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mci5
+warp://188.114.97.87:903?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#mci6
