@@ -1,6 +1,6 @@
 //profile-title: AmiR_MCI
 //profile-update-interval: 24
-warp://162.159.192.165:903?ifp=30-70&ifps=30-70&ifpd=4-8&ifpm=m4#mci1
+warp://162.159.192.165:903?ifp=40-80&ifps=40-1000&ifpd=4-8&ifpm=m4#mci1
 warp://162.159.192.97:903?ifp=30-70&ifps=50-100&ifpd=4-8&ifpm=m4#mci2
 warp://162.159.195.102:864?ifp=30-70&ifps=60-100&ifpd=4-8&ifpm=m4#mci3
 warp://162.159.195.107:903?ifp=30-70&ifps=70-100&ifpd=4-8&ifpm=m4#mci4
