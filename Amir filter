@@ -2,8 +2,9 @@
 //profile-update-interval: 1
 warp://188.114.99.151:2408?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#01
 warp://188.114.99.159:864?ifp=40-80&ifps=40-100&ifpd=4-6&ifpm=m4#mtn02
-warp://188.114.99.233:1070?ifp=40-100&ifps=20-80&ifpd=4-8&ifpm=m4#mtn03
-warp://188.114.96.249:5956?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#mtn04
 warp://162.159.195.93:5956?ifp=40-80&ifps=40-70&ifpd=4-8&ifpm=m4#mci1
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&sid=#%40meli_proxyy%20%2811%29
 warp://188.114.98.101:8886?ifp=40-80&ifps=40-100&ifpd=6-9&ifpm=m4#mci2
+vmess://eyJhZGQiOiJoZWxzaW5raTEuZmFyYXNvcmF0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiMDNmZTNmMjEtMTc3Zi00NDhjLWI0Y2YtYjZiOTE1NTU2M2E0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjQ3MTUiLCJwcyI6IvCfmoBA8J2XpvCdl7bwnZeh8J2XlPCdl6nwnZeg8J+RiNqp2KfZhtmB24zaryDYp9mI2LHamNin2YbYs9uMIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172#Ainita%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@azure-sto.edgeservers.org:48172#Server-3
