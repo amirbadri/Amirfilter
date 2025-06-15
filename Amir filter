@@ -6,3 +6,4 @@ warp://188.114.99.233:1070?ifp=40-100&ifps=20-80&ifpd=4-8&ifpm=m4#mtn03
 warp://188.114.96.249:5956?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#mtn04
 warp://162.159.195.93:5956?ifp=40-80&ifps=40-70&ifpd=4-8&ifpm=m4#mci1
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&sid=#%40meli_proxyy%20%2811%29
+warp://188.114.98.101:8886?ifp=40-80&ifps=40-100&ifpd=6-9&ifpm=m4#mci2
