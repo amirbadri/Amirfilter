@@ -1,5 +1,5 @@
 //profile-title: AmiR_MCI_MTN
-//profile-update-interval: 24
+//profile-update-interval: 1
 warp://188.114.99.151:2408?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#01
 warp://188.114.99.159:864?ifp=40-80&ifps=40-100&ifpd=4-6&ifpm=m4#mtn02
 warp://188.114.99.233:1070?ifp=40-100&ifps=20-80&ifpd=4-8&ifpm=m4#mtn03
