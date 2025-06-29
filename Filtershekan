@@ -1,15 +1,18 @@
 //profile-title: AmiR_MTN_MCI
 //profile-update-interval: 1
 
-warp://188.114.96.181:8854?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#011
+warp://188.114.99.155:1180?ifp=40-100&ifps=10-80&ifpd=4-6&ifpm=m4#98
 
-warp://188.114.97.75:968?ifp=40-80&ifps=40-100&ifpd=4-6&ifpm=m4#mtn02
+warp://188.114.99.187:2506?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#97
 
-warp://188.114.99.233:1070?ifp=40-100&ifps=20-80&ifpd=4-8&ifpm=m4#mtn03
+warp://188.114.97.107:1014?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#96
 
-warp://188.114.96.249:5956?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#mtn04
+warp://188.114.99.253:1018?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#95
 
-warp://162.159.195.93:5956?ifp=40-80&ifps=40-70&ifpd=4-8&ifpm=m4#mci1
+warp://188.114.96.55:3138?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#94
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#AmiR
+warp://188.114.97.59:1843?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#93
 
+warp://162.159.195.139:987?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#92
+
+warp://188.114.98.169:890?ifp=40-100&ifps=10-80&ifpd=4-8&ifpm=m4#91
