@@ -29,3 +29,15 @@ vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&typ
 
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?security=none&type=tcp&host=zula.ir&headerType=http#🇮🇷[openproxylist.com] vless-IR
 
+vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.160.145:443?security=&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20vless-DE
+
+vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?type=tcp&host=eN.TwiTtER.cOM.%3A8880&headerType=http#🇫🇮[openproxylist.com] vless-FI
+
+vless://ecca8700-af9f-4ebc-8df0-5fd7559a000c@172.64.32.85:443?security=tls&sni=nr5jsvub.musicirans.ir&type=ws&host=nr5jsvub.musicirans.ir&path=/wss&alpn=http/1.1#🇫🇮[openproxylist.com] vless-FI
+
+vmess://eyJhZGQiOiI2Mi42MC4xNzkuNTUiLCJhaWQiOiIwIiwiaG9zdCI6InNwZWVkdGVzdDEuaXJhbmNlbGwuaXIiLCJpZCI6IjU2MTZlYzhlLTM4Y2UtMDAzZi04MzhlLTdiYTA5MDA4NDVhYiIsIm5ldCI6InRjcCIsInBvcnQiOjgwODAsInBzIjoiXHVkODNjXHVkZGU2XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1BRSIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
+
+vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?security=tls&sni=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&type=ws&host=wwwspeedtestnetwhiteberinsistomd6625996s07.gatesriver.ir&path=%2F&fp=random#🇬🇧[openproxylist.com] vless-GB
+
+trojan://telegram-id-directvpn@13.39.202.182:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇫🇷[openproxylist.com] trojan-FR
+
