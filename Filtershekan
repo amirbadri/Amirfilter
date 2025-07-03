@@ -41,3 +41,6 @@ vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?security=tls&sni
 
 trojan://telegram-id-directvpn@13.39.202.182:22223?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#🇫🇷[openproxylist.com] trojan-FR
 
+vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880/?encryption=none&flow=&host=eN.TwiTtER.cOM.%3A8880&type=tcp&headerType=http#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-10419631
+
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.107.193.169:443/?encryption=none&flow=&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AA%5Bwww.v2nodes.com%5D%20vless-DE-10422282
